@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f9fa;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+table {
+    width: 100%;
+    background: white;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #dee2e6;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #28a745;
+    font-weight: bold;
+}
